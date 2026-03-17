@@ -2,6 +2,7 @@
   "name": "psn-avatar-discord-bot",
   "version": "1.0.0",
   "description": "A Discord bot for adding PlayStation avatar SKUs to cart.",
+  "license": "SEE LICENSE IN LICENSE",
   "main": "src/bot.js",
   "scripts": {
     "start": "node src/bot.js",

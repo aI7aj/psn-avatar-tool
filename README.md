@@ -1,6 +1,6 @@
 # PSN Avatar Bot
 
-A simple CommonJS Discord bot that helps users add PlayStation avatar SKUs to cart from private threads.
+A simple Discord bot that helps users add PlayStation avatar SKUs to cart from private threads.
 
 ## What the bot does
 
@@ -53,38 +53,35 @@ npm start
 6. Copy the **Value** and use it as the `/add-to-cart` `session`.
 
 Keep this value private. Do not share it in public channels.
-### usage:
+### Example usage:
 
-Gallery: [extract-thr-cookies-junZCVe](https://imgur.com/gallery/extract-thr-cookies-junZCVe)  
-![Get cookies](https://i.imgur.com/junZCVe)
+
+![Get cookies](https://i.imgur.com/J4jfPKo.png)
 
 ## How to use the bot
 
 1. Run `/setup` in a server channel.
 2. Click **Create Thread**.
+![Create thread](https://i.imgur.com/cp2IHvK.png)
 3. Open your private thread.
 4. Run `/add-to-cart` with `sku` and `session`.
+![Fill cart command](https://i.imgur.com/nYgz6IS.png)
 
 Example:
 
 ```text
 /add-to-cart sku:UP9000-CUSA00000_00-AVATAR0000000001 session:YOUR_PDCCWS_P_VALUE
 ```
+![Cart success](https://i.imgur.com/5bjA1I3.png)
 
-## Screenshots
 
-### Create thread
 
-Gallery: [create-thread-Fc5NeVU](https://imgur.com/gallery/create-thread-Fc5NeVU)  
-![Create thread](https://i.imgur.com/Fc5NeVU)
 
-### Fill cart command
+## License
 
-Gallery: [avatar-command-nD40wd3](https://imgur.com/gallery/avatar-command-nD40wd3)  
-![Fill cart command](https://i.imgur.com/nD40wd3)
+Copyright (c) 2026 al7aj.
 
-### Cart success
+This project is free to use, copy, modify, and share for non-commercial use.
+Selling this software or using it commercially is not allowed without written permission.
 
-Gallery: [add-to-cart-success-qogf7bc](https://imgur.com/gallery/add-to-cart-success-qogf7bc)  
-![Cart success](https://i.imgur.com/qogf7bc)
-
+See [LICENSE](LICENSE) for full terms.
