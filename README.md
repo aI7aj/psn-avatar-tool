@@ -73,6 +73,8 @@ Example:
 /add-to-cart sku:UP9000-CUSA00000_00-AVATAR0000000001 session:YOUR_PDCCWS_P_VALUE
 ```
 ![Cart success](https://i.imgur.com/5bjA1I3.png)
+![Cart success](https://i.imgur.com/n9yrvSM.png)
+
 
 
 
